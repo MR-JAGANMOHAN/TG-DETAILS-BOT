@@ -9,8 +9,8 @@ composer
       "This bot can fetch you all the data contained in a telegram message. Forward or send a message to know more.",
       {
         reply_markup: new InlineKeyboard().url(
-          "Source",
-          "https://github.com/xditya/TGdetailsBot",
+          "UPDATEZ",
+          "https://t.me/My_Test_Botz",
         )
           .text("Help", "help"),
       },
@@ -22,8 +22,8 @@ composer.callbackQuery("home", async (ctx) => {
     "This bot can fetch you all the data contained in a telegram message. Forward or send a message to know more.",
     {
       reply_markup: new InlineKeyboard().url(
-        "Source",
-        "https://github.com/xditya/TGdetailsBot",
+        "UPDATEZ",
+        "https://t.me/My_Test_Botz",
       )
         .text("Help", "help"),
     },
