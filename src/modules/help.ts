@@ -20,8 +20,8 @@ That's it!
 Send or forward a message and use the buttons to get the message data.`,
     {
       reply_markup: new InlineKeyboard().url(
-        "Source",
-        "https://github.com/xditya/TGdetailsBot",
+        "UPDATEZ",
+        "https://t.me/My_Test_Botz",
       )
         .text("Home", "home"),
       parse_mode: "HTML",
