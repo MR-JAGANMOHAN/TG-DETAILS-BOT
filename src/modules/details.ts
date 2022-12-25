@@ -11,7 +11,7 @@ composer
   .on("message", async (ctx) => {
     contextCache.set(ctx.from!.id, ctx);
     await ctx.reply(
-      "Chose the Option!\n\nJoin @BotzHub for more useful bots!",
+      "Chose the Option!\n\nJoin @My_Test_Botz for more useful bots!",
       {
         reply_markup: reply_markup,
       },
